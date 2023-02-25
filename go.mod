@@ -1,0 +1,1 @@
+module github.com/syavitri/go-say-hello/v2
